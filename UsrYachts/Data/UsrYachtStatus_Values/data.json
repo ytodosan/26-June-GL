@@ -1,0 +1,84 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "5be84e0c-ec74-4996-8366-5a7cf9145903"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1782403276922+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1782399514879+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "ea4414c2-80e3-6460-b30e-d4e54f16aeff",
+          "Value": "C200FB"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "a180d7be-6a12-4072-893c-40343e2f15d2"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1782403289086+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1782399520667+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "ea4414c2-80e3-6460-b30e-d4e54f16aeff",
+          "Value": "EC7D10"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "de6847eb-18f2-4972-a533-ef2216b8ea09"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1782403297616+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1782399504719+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "ea4414c2-80e3-6460-b30e-d4e54f16aeff",
+          "Value": "FFBC0A"
+        }
+      ]
+    },
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "dfff8923-ed1b-429c-8ae1-9c6b4a95768c"
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1782403300798+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1782399509360+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "ea4414c2-80e3-6460-b30e-d4e54f16aeff",
+          "Value": "FC2F00"
+        }
+      ]
+    }
+  ]
+}

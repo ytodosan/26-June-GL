@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "7c7dc7c5-67a0-ec70-d547-944bc0e6e303",
+    "Name": "DeleteFlashingYellowTL",
+    "DBEngineType": 0,
+    "InstallType": 1,
+    "ModifiedOnUtc": "\/Date(1782313858000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

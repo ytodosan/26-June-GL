@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "e7267b2a-516f-c16d-0c2c-7c1f5c048068",
+    "Name": "EnableSysAdmUTR",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1782490271000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}

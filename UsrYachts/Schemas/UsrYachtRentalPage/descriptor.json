@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "906d990e-1bac-4737-8b36-834305cdb0f9",
+    "Name": "UsrYachtRentalPage",
+    "ModifiedOnUtc": "\/Date(1782750017000)\/",
+    "Parent": {
+      "UId": "ecdcc8ff-272c-4957-9381-7d74ce17e140",
+      "Name": "BaseMiniPageTemplate"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Yacht rentals page"
+  }
+}
